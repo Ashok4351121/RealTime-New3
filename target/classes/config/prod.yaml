@@ -1,0 +1,12 @@
+http:
+  listener:
+    host: "0.0.0.0"
+    port: "9081"
+    path: "getRoutes"
+    
+db:
+  oracle:
+    host: "localhost"
+    port: "1522"
+    username: "system"
+    password: "SYSTEM"    
